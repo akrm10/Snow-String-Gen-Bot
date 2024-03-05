@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="sᴏᴜʀᴄᴇ", url="https://github.com/Snowball-0/Tg-StringGen"
+                text="sᴏᴜʀᴄᴇ", url="https://github.com/Snowball-01/Snow-String-Gen-Bot"
             ),
         ],
     ]
